@@ -1,0 +1,14 @@
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.exe
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.deps.json
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.runtimeconfig.json
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.runtimeconfig.dev.json
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.dll
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\bin\Debug\netcoreapp3.1\theater_database.pdb
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.csproj.AssemblyReference.cache
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.AssemblyInfoInputs.cache
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.AssemblyInfo.cs
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.csproj.CoreCompileInputs.cache
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.dll
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.pdb
+C:\Users\jikon\Desktop\School\Programs\theater_database\theater_database\obj\Debug\netcoreapp3.1\theater_database.genruntimeconfig.cache
