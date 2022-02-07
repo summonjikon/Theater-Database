@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jikon\\Desktop\\School\\Programs\\theater_database\\Theater Database\\theater_database\\theater_database.csproj",
+      "projectUniqueName": "C:\\Users\\jikon\\Desktop\\School\\Programs\\Theater-Database\\theater_database\\theater_database.csproj",
       "projectName": "theater_database",
-      "projectPath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\theater_database\\Theater Database\\theater_database\\theater_database.csproj",
+      "projectPath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\Theater-Database\\theater_database\\theater_database.csproj",
       "packagesPath": "C:\\Users\\jikon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\theater_database\\Theater Database\\theater_database\\obj\\",
+      "outputPath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\Theater-Database\\theater_database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jikon\\AppData\\Roaming\\NuGet\\NuGet.Config",

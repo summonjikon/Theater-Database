@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urXjD6LD9nE/dYS5qKgtxwTfVtsDJOraulXIMtuknWMpwk58yQxN473e3dtRZJ3emeXGHbxxLrcSXZ8VE5nNvQ==",
+  "dgSpecHash": "C98K3HctT4QY5Gm9BI1fO1IMnlQcs9NSoT6Jc6rcnYWa5b7TTdG9VTuugLSd3r8AAVfNnfyr2obj5dvEB1XdJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\theater_database\\Theater Database\\theater_database\\theater_database.csproj",
+  "projectFilePath": "C:\\Users\\jikon\\Desktop\\School\\Programs\\Theater-Database\\theater_database\\theater_database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jikon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
     "C:\\Users\\jikon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
