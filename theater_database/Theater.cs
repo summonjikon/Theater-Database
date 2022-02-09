@@ -6,20 +6,21 @@ namespace theater_database
 {
     internal class Theater
     {
-        List<Movie> movieTitles;
+        List<Movie> movie;
         public Theater()
         {
-            movieTitles = new List<Movie>();
+            movie = new List<Movie>();
         }
 
-        public void AddMovie(Movie aMovieTitle)
+        public void addMovie(Movie aMovie)
         {
-            movieTitles.Add(aMovieTitle);
+            movie.Add(aMovie);
         }
 
         public List<Movie> GetTitles()
         {
-            return movieTitles;
+            return movie;
         }
+
     }
 }

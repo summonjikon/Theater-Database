@@ -7,15 +7,27 @@ namespace theater_database
     internal class Movie
     {
         private string title;
+        private int movieGenre;
 
-        public Movie(string aTitle)
+
+        public enum genre
+        {
+            Action,
+            Horror, 
+            Comedy
+        }
+
+        public Movie(string aTitle, int aGenre)
         {
             title = aTitle;
+            movieGenre = aGenre;
         }
 
         public string GetTitle()
         {
             return title;
         }
+
+        
     }
 }
