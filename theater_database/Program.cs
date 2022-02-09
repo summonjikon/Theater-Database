@@ -4,7 +4,6 @@ namespace theater_database
 {
     internal class Program
     {
-        int actionMovies = 1;
         static void Main(string[] args)
         {
             int genre;
@@ -12,12 +11,11 @@ namespace theater_database
 
             Theater rooster = new Theater();
 
-            Movie PulpFiction = new Movie("Pulp Fiction");
-            Movie Snatch = new Movie("Snatch");
+            Movie PulpFiction = new Movie("Pulp Fiction", Movie.genres.Action);
+            Movie Snatch = new Movie("The Grudge", Movie.genres.Horror);
 
             rooster.addMovie(PulpFiction);
             rooster.addMovie(Snatch);
-
 
             Console.WriteLine("Welkom,\nKies uit een film categorie door een cijfer in te vullen\n \n1. Actie \n2. Horror \n3. Sci-Fi ");
             genre = Convert.ToInt32(Console.ReadLine());
@@ -57,7 +55,7 @@ namespace theater_database
             filmKeuze = Console.ReadLine();
 
             Console.Clear();
-            Console.WriteLine(filmKeuze + " Is helaas uitverkocht!");
+            Console.WriteLine(filmKeuze + " is helaas uitverkocht!");
 
 
 

@@ -7,6 +7,7 @@ namespace theater_database
     internal class Theater
     {
         List<Movie> movie;
+
         public Theater()
         {
             movie = new List<Movie>();
@@ -21,6 +22,5 @@ namespace theater_database
         {
             return movie;
         }
-
     }
 }
