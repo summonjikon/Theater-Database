@@ -15,6 +15,11 @@ namespace theater_database
             rooster.addMovie(PulpFiction);
             rooster.addMovie(Snatch);
 
+            foreach (string str in Enum.GetNames(typeof(Movie.genres)))
+            {
+                Console.WriteLine(str);
+            }
+        
 
             foreach (Movie a in rooster.GetTitles())
             {

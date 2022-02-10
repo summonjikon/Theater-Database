@@ -8,6 +8,7 @@ namespace theater_database
     {
         List<Movie> movie;
 
+
         public Theater()
         {
             movie = new List<Movie>();
