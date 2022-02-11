@@ -8,7 +8,21 @@ namespace theater_database
     {
         List<Movie> movie;
 
+        public Movie[] GetMoviesByType(Movie.genres genre)
 
+        {
+
+            List<Movie> filteredMovies = new List<Movie>()
+
+
+
+            ???
+
+
+
+            return filteredMovies.ToArray()
+
+}
         public Theater()
         {
             movie = new List<Movie>();
